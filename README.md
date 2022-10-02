@@ -76,9 +76,9 @@ plt.show()
 
 
 ## Output:
-![m1](https://user-images.githubusercontent.com/93427472/193469023-efe3962a-0de6-4c95-bc7e-7f74b99f89a3
+![m1](https://user-images.githubusercontent.com/93427472/193469023-efe3962a-0de6-4c95-bc7e-7f74b99f89a3.png)
 ![m2](https://user-images.githubusercontent.com/93427472/193469032-890d3653-ff5f-4148-a646-74cbd6113cae.png)
-.png)
+
 
 
 
