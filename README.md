@@ -76,13 +76,17 @@ plt.show()
 
 
 ## Output:
-![m1](https://user-images.githubusercontent.com/93427472/193469023-efe3962a-0de6-4c95-bc7e-7f74b99f89a3.png)
-![m2](https://user-images.githubusercontent.com/93427472/193469032-890d3653-ff5f-4148-a646-74cbd6113cae.png)
+![1](https://user-images.githubusercontent.com/93427472/199087737-a9db4259-e8a9-4141-a371-d30bb69a490e.png)
 
+![2](https://user-images.githubusercontent.com/93427472/199087762-f3e6a1db-5754-4720-ad36-0913aa4b6581.png)
 
+![3](https://user-images.githubusercontent.com/93427472/199087766-ad289282-a035-4adc-b812-36ed5659a386.png)
 
+![4](https://user-images.githubusercontent.com/93427472/199087772-e9ac0873-121e-4050-bf20-ee0eb661b41f.png)
 
+![5](https://user-images.githubusercontent.com/93427472/199087775-c42aacf8-f3db-494b-bcfe-14966caa56ab.png)
 
+![6](https://user-images.githubusercontent.com/93427472/199087780-d43d5fe3-1267-4d74-8d57-8ad46404080d.png)
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
